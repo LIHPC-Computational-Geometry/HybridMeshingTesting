@@ -1,7 +1,7 @@
 # HybridMeshingTesting
 The goal of this project is to test and evaluate the hybrid meshing pipeline proposed in the gmds project. 
 
-##Proposed scenario
+## Proposed scenario
 
 The testing framework relies on [snakemake](https://snakemake.github.io/). We build a workflow, that performs the following stages:
 1. We download all the geometric models stored in the [mambo](https://gitlab.com/franck.ledoux/mambo) database into the *model* directory.
